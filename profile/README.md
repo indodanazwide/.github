@@ -1,11 +1,23 @@
 # Indodanazwide
 
-**Engineering atmospheric, modern, and scalable software solutions.**
-Based in Durban, KwaZulu-Natal.
+### Building, learning, and engineering modern technology solutions.
 
-### Connect
-Reach out for collaborations, architecture discussions, or to talk tech.
+Indodanazwide is a technology-focused brand documenting the journey.
+
+Our goal is to design scalable, secure, and reliable digital solutions while sharing knowledge through open-source projects, technical documentation, and practical learning experiences.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/indodanazwide/
+- Medium: https://indodanazwide.medium.com/
+- Instagram: https://instagram.com/indodanazwide
+
+Reach out for collaboration, knowledge sharing, architecture discussions, and innovative technology projects.
 
 ---
 
-*Redefining the digital landscape, one commit at a time.*
+### Vision
+
+To build technology that empowers people, simplifies operations, and creates lasting impact through innovation and continuous learning.
+
+*"Learn. Build. Share."*
